@@ -1,7 +1,7 @@
 Serverless Web Application on AWS
 
-Introduction
-This project aims to deploy a scalable and secure web application leveraging AWS services. It covers the setup, execution, and tasks performed, emphasizing cloud and information security principles such as accountability, monitoring, and confidentiality.
+Introduction - 
+This project aims to deploy a scalable and secure web application leveraging AWS Cloud Services - Using S3, EC2, DynamoDB, Lambda & Route 53 services. It covers the setup, execution, and tasks performed, emphasizing cloud and information security principles such as accountability, monitoring, and confidentiality. 
 
 System Creation & Deployment
 1. Setup of S3 Bucket
